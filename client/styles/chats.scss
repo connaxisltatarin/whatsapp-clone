@@ -1,0 +1,28 @@
+.item-chat {
+  .last-message-timestamp {
+    position: absolute;
+    top: 16px;
+    right: 38px;
+    font-size: 14px;
+    color: #9A9898;
+  }
+
+  p {
+    float: left;
+  }
+}
+.circle {
+    border-radius: 50%;
+    background-color: #0ad60a;
+    color: white;
+    width: 20px;
+    text-align: center;
+    font-size: 13px;
+    float: left;
+    margin-left: 5px;
+}
+.imagePreview {
+  width: 20px;
+  height: 20px;
+  margin-right: 0px;
+}
